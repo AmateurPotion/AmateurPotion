@@ -54,6 +54,10 @@
 
 #내일배움캠프 #dotnet #csharp #TIL #팀스파르타 #devlog
 
+[^1]: Chatgpt의 도움을 받았다 ㅋㅋ
+
+[^2]: 출력파일에 확장자가 없어서 당황했던 적이 있다,,, 
+
 
 <script>
     var disqus_config = function () {
@@ -68,7 +72,3 @@
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-[^1]: Chatgpt의 도움을 받았다 ㅋㅋ
-
-[^2]: 출력파일에 확장자가 없어서 당황했던 적이 있다,,, 
