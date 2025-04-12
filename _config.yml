@@ -1,6 +1,9 @@
 ---
 title: DevPotion
-layout: default
-comments: true
+
+disqus:
+  comment: true
+  shortname: 'devpotion'
 # other options
 ---
+

@@ -1,2 +1,2 @@
-1.  Github 블로그 개설
-2.  Dotnet Core 개발환경 만들기
+1.  [Github 블로그 개설](https://amateurpotion.github.io/AmateurPotion/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84%20TIL/1%EC%A3%BC%EC%B0%A8/20250411%20Github%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EA%B0%9C%EC%84%A4)
+2.  [Dotnet Core 개발환경 만들기](https://amateurpotion.github.io/AmateurPotion/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84%20TIL/1%EC%A3%BC%EC%B0%A8/20250412%20Dotnet%20Core%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
