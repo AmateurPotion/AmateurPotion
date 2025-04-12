@@ -1,14 +1,8 @@
 ---
 title: DevPotion
+tagline: 내일배움캠프
 lang: ko
 timezone: Asia/Seoul
-
-github:
-  username: AmateurPotion
-
-social:
-  name: 김정인
-  email: 1k0j2i4@gmail.com
 
 disqus:
   layout: default
