@@ -2,6 +2,7 @@
 title: DevPotion
 
 disqus:
+  layout: default
   comment: true
   shortname: 'devpotion'
 # other options
