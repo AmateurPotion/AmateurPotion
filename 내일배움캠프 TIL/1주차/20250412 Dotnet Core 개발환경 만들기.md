@@ -61,7 +61,7 @@
 
 <script>
     var disqus_config = function () {
-    this.page.url ="https://amateurpotion.github.io/AmateurPotion/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84%20TIL/1%EC%A3%BC%EC%B0%A8/20250412%20Dotnet%20Core%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EB%A7%8C%EB%93%A4%EA%B8%B0";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url ="https://amateurpotion.github.io/AmateurPotion/내일배움캠프%20TIL/1주차/20250412%20Dotnet%20Core%20개발환경%20만들기";  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = "내배캠_1_2"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     (function() { // DON'T EDIT BELOW THIS LINE
