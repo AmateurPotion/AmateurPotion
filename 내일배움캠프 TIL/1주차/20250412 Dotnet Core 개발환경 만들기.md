@@ -57,17 +57,16 @@
 [^1]: Chatgpt의 도움을 받았다 ㅋㅋ
 
 [^2]: 출력파일에 확장자가 없어서 당황했던 적이 있다,,, 
-
-
+<br>
+<br>
 다음글) [Dotnet Basic 1일차](https://amateurpotion.github.io/AmateurPotion/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84%20TIL/1%EC%A3%BC%EC%B0%A8/20250413%20Dotnet%20Basic%201%EC%9D%BC%EC%B0%A8) 
+<br>
 
 <script>
     var disqus_config = function () {
-    /*
     this.page.url ="https://amateurpotion.github.io/AmateurPotion/내일배움캠프%20TIL/1주차/20250412%20Dotnet%20Core%20개발환경%20만들기";  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = "내배캠_1_2"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
-    */
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://devpotion.disqus.com/embed.js';
